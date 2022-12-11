@@ -1,2 +1,2 @@
-# deep-learning-course
+# go server case
 start day1
